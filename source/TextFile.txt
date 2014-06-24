@@ -1,3 +1,2 @@
 This is a new text file
-A new line
-Why aren't these new lines showing up in SourceTree?
+Tidying up file
