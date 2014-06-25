@@ -4,3 +4,4 @@ Making separate change on master branch
 
 New change on master
 Another change on master
+A third change on master
