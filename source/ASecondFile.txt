@@ -1,2 +1,3 @@
 This is a second file being added to the repository
 Working on second file in a different branch
+Making separate change on master branch
